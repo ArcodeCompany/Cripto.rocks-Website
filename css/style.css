@@ -2257,7 +2257,9 @@ a.logo:hover{
 /*
  * Dark panel style
  */
-
+i.fa.fa-bars {
+	color: black;
+}
 .main-nav.light-after-scroll.dark .logo-dark{
     display: none;
 }
