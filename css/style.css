@@ -2449,13 +2449,13 @@ a.logo:hover{
     background-color: #333333 !important;
 }
 .bg-dark-lighter{
-    background-color: #555555 !important;
+    background-color: #111 !important;
 }
 .bg-dark.light-content{
     background-color: #333333 !important;
 }
 .bg-dark-lighter.light-content{
-    background-color: #555555 !important;
+    background-color: #111 !important;
 }
 .bg-dark,
 .bg-dark-lighter,
