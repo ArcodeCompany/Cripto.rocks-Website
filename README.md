@@ -1,2 +1,2 @@
 # By Arcode
-Contact us: hi@arcode.cloud
+Contact us: hi@cripto.rocks
